@@ -4,9 +4,9 @@
 
 ### A little desktop companion to keep up with upcoming matches. ✧
 
-![Windows](https://img.shields.io/badge/Windows-desktop-151515?style=flat-square&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10%2B-151515?style=flat-square&logo=python&logoColor=white)
-![Flet](https://img.shields.io/badge/built%20with-Flet-151515?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-desktop-ffd6e7?style=flat-square&logo=windows&logoColor=9b5472)
+![Python](https://img.shields.io/badge/Python-3.10%2B-ffd6e7?style=flat-square&logo=python&logoColor=9b5472)
+![Flet](https://img.shields.io/badge/built%20with-Flet-ffd6e7?style=flat-square&logoColor=9b5472)
 
 <br>
 

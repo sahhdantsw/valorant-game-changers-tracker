@@ -4,15 +4,15 @@
 
 ### A little desktop companion to keep up with upcoming matches. ✧
 
-<img src="https://img.shields.io/badge/Windows-desktop-F7B7C8?style=flat-square&logo=windows&logoColor=6B4F5F" alt="Windows">
-<img src="https://img.shields.io/badge/Python-3.10%2B-F4A6C1?style=flat-square&logo=python&logoColor=6B4F5F" alt="Python">
-<img src="https://img.shields.io/badge/built%20with-Flet-E8A4B8?style=flat-square&logoColor=6B4F5F" alt="Built with Flet">
+<img src="https://img.shields.io/badge/Windows-desktop-F7B7C8?style=flat-square&labelColor=F7B7C8&logo=windows&logoColor=6B4F5F" alt="Windows">
+<img src="https://img.shields.io/badge/Python-3.10%2B-F4A6C1?style=flat-square&labelColor=F4A6C1&logo=python&logoColor=6B4F5F" alt="Python">
+<img src="https://img.shields.io/badge/built%20with-Flet-E8A4B8?style=flat-square&labelColor=E8A4B8&logoColor=6B4F5F" alt="Built with Flet">
 
 <br>
 
-`✿ made with care by sarah. ✿`
+<img src="https://img.shields.io/badge/✿%20made%20with%20care%20by%20sarah-✿-F7B7C8?style=flat-square&labelColor=F7B7C8" alt="Made with care by Sarah">
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F7B7C8" width="80%" alt="pink divider">
 

@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/✿%20made%20with%20care%20by%20sarah-✿-F7B7C8?style=flat-square&labelColor=F7B7C8" alt="Made with care by ME">
+<img src="https://img.shields.io/badge/✿%20made%20with%20care%20by%20ME-✿-F7B7C8?style=flat-square&labelColor=F7B7C8" alt="Made with care by ME">
 
 <br><br>
 

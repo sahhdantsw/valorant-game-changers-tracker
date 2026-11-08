@@ -15,7 +15,7 @@
 
 **VALORANT · Game Changers** is a small desktop app for keeping track of Game Changers competition schedules. Pick a competition and the teams you want to follow; upcoming matches are shown in your selected time zone, and optional email reminders can let you know before they start.
 
-- 🌐 **Language:** the app's interface is in **Brazilian Portuguese (Português do Brasil)**. This README is in English
+- 🌐 **Language:** the app's interface is in **Brazilian Portuguese (Português do Brasil)**. 
 
 ---
 
